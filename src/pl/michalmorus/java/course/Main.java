@@ -2,6 +2,7 @@ package pl.michalmorus.java.course;
 
 import pl.michalmorus.java.course.bisection.Bisection;
 import pl.michalmorus.java.course.bubblesort.BubbleSort;
+import pl.michalmorus.java.course.college.College;
 import pl.michalmorus.java.course.fibonacci.Fibonacci;
 import pl.michalmorus.java.course.mergesort.MergeSort;
 
@@ -17,7 +18,6 @@ public class Main {
         System.out.println("4. Algorytm bisekcji");
         System.out.println("5. Zaimplementuj hierarchię klas (auta, rośliny, zwierzę)");
 
-        Bisection.run();
         boolean correct = false;
         do {
             try {
@@ -27,19 +27,23 @@ public class Main {
                 switch (choice) {
                     case 1:
                         correct = true;
-                        new BubbleSort().run();
+                        BubbleSort.run();
                         break;
                     case 2:
                         correct = true;
-                        new Fibonacci().run();
+                        Fibonacci.run();
                         break;
                     case 3:
                         correct = true;
-                        new MergeSort().run();
+                        MergeSort.run();
                         break;
                     case 4:
                         correct = true;
                         Bisection.run();
+                        break;
+                    case 5:
+                        correct = true;
+                        College.run();
                         break;
                     default:
                         System.out.println("Nic nie wybrano");

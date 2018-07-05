@@ -15,7 +15,7 @@ public class Fibonacci {
         resultCache.put(1, BigInteger.ONE);
     }
 
-    public void run() {
+    public static void run() {
         System.out.println("\nFibonacci");
         int arg = Utils.getIntValue("Podaj liczbę naturalną: ", 0, Integer.MAX_VALUE);
         if (arg == 0) {

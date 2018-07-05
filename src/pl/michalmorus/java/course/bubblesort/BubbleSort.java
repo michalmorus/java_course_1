@@ -6,7 +6,7 @@ import java.util.Arrays;
 
 public class BubbleSort {
 
-    public void run() {
+    public static void run() {
         System.out.println("\nBubblesort");
 
         int arraySize = Utils.getIntValue("Podaj wielkość tablicy do sortowania: ", 1, Integer.MAX_VALUE);
@@ -20,8 +20,7 @@ public class BubbleSort {
         System.out.println("Tablica po sortowaniu:");
         System.out.println(Arrays.toString(result));
     }
-
-
+    
     private static int[] bubbleSort(int[] array) {
         int size = array.length, temp;
 

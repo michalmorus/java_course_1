@@ -7,7 +7,7 @@ import java.util.Arrays;
 
 public class MergeSort {
 
-    public void run() {
+    public static void run() {
         System.out.println("\nMerge sort");
 
         int arraySize = Utils.getIntValue("Podaj wielkość tablicy: ", 1, Integer.MAX_VALUE);
@@ -22,7 +22,7 @@ public class MergeSort {
         System.out.println(Arrays.toString(array));
     }
 
-    private void mergeSort(int array[], int leftIndex, int rightIndex) {
+    private static void mergeSort(int array[], int leftIndex, int rightIndex) {
         if (leftIndex < rightIndex) {
             int center = (leftIndex + rightIndex) / 2;
             mergeSort(array, leftIndex, center);
@@ -31,13 +31,13 @@ public class MergeSort {
         }
     }
 
-    private void merge(int array[], int leftIndex, int centerIndex, int rightIndex) {
+    private static void merge(int array[], int leftIndex, int centerIndex, int rightIndex) {
 
-        ArrayList left = new ArrayList();
+        ArrayList<Integer> left = new ArrayList<>();
         for (int i = leftIndex; i <= centerIndex; i++) {
             left.add(array[i]);
         }
-        ArrayList right = new ArrayList();
+        ArrayList<Integer> right = new ArrayList<>();
         for (int i = centerIndex + 1; i <= rightIndex; i++) {
             right.add(array[i]);
         }
@@ -64,42 +64,5 @@ public class MergeSort {
             right.remove(0);
             currentIndex++;
         }
-//
-//
-//        int leftSize = centerIndex - leftIndex + 1;
-//        int leftTemp[] = new int[leftSize];
-//        for (int i = 0; i < leftSize; ++i) {
-//            leftTemp[i] = array[leftIndex + i];
-//        }
-//        int rightSize = rightIndex - centerIndex;
-//        int rightTemp[] = new int[rightSize];
-//        for (int i = 0; i < rightSize; ++i) {
-//            rightTemp[i] = array[centerIndex + 1 + i];
-//        }
-//
-//
-//        int leftIdx = 0, rightIdx = 0, currIdx = leftIndex;
-//        while (leftIdx < leftSize & rightIdx < rightSize) {
-//            if (leftTemp[leftIdx] <= rightTemp[rightIdx]) {
-//                array[currIdx] = leftTemp[leftIdx];
-//                leftIdx++;
-//            } else {
-//                array[currIdx] = rightTemp[rightIdx];
-//                rightIdx++;
-//            }
-//            currIdx++;
-//        }
-//
-//        while (leftIdx < leftSize) {
-//            array[currIdx] = leftTemp[leftIdx];
-//            leftIdx++;
-//            currIdx++;
-//        }
-//
-//        while (rightIdx < rightSize) {
-//            array[currIdx] = rightTemp[rightIdx];
-//            rightIdx++;
-//            currIdx++;
-//        }
     }
 }
