@@ -18,9 +18,12 @@ public class Bisection {
 
         double start = Utils.getDoubleValue("Początek przedziału: ");
         double end = Utils.getDoubleValue("Koniec przedziału: ");
-        double result = bisection(start, end);
-
-        System.out.println("wynik: " + result);
+        try {
+            double result = bisection(start, end);
+            System.out.println("wynik: " + result);
+        } catch (Exception e) {
+            System.out.println("Nie udało się obliczyć wartości");
+        }
     }
 
     private static double bisection(double min, double max) {
