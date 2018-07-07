@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a93228b-c0d8-40a8-a80b-f8df90d07105" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/michalmorus/java/course/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/michalmorus/java/course/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/michalmorus/java/course/bisection/Bisection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/michalmorus/java/course/Bisection/Bisection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/michalmorus/java/course/bubblesort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/michalmorus/java/course/BubbleSort/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/michalmorus/java/course/college/College.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/michalmorus/java/course/College/College.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/michalmorus/java/course/college/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/michalmorus/java/course/College/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/michalmorus/java/course/college/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/michalmorus/java/course/College/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/michalmorus/java/course/college/PersonType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/michalmorus/java/course/College/PersonType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/michalmorus/java/course/college/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/michalmorus/java/course/College/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/michalmorus/java/course/fibonacci/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/michalmorus/java/course/Fibonacci/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/michalmorus/java/course/mergesort/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/michalmorus/java/course/MergeSort/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pl/michalmorus/java/course/utils/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/michalmorus/java/course/Utils/Utils.java" afterDir="false" />
-    </list>
+    <list default="true" id="8a93228b-c0d8-40a8-a80b-f8df90d07105" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,8 +15,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="24" column="47" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
+            <state relative-caret-position="75">
+              <caret line="5" column="54" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -284,12 +271,12 @@
       <updated>1530733268128</updated>
       <workItem from="1530733271916" duration="8917000" />
       <workItem from="1530820857799" duration="9595000" />
-      <workItem from="1530944732791" duration="6820000" />
+      <workItem from="1530944732791" duration="6962000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25332000" />
+    <option name="totallyTimeSpent" value="25474000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1042" extended-state="6" />
@@ -297,7 +284,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32930845" />
+      <window_info active="true" anchor="bottom" id="Messages" order="7" visible="true" weight="0.32930845" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -305,11 +292,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.37321624" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.1909989" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.22941822" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25453576" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25453576" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -733,8 +720,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="24" column="47" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
+        <state relative-caret-position="75">
+          <caret line="5" column="54" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
         </state>
       </provider>
     </entry>

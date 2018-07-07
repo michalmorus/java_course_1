@@ -4,7 +4,6 @@ import pl.michalmorus.java.course.Bisection.Bisection;
 import pl.michalmorus.java.course.BubbleSort.BubbleSort;
 import pl.michalmorus.java.course.College.College;
 import pl.michalmorus.java.course.Fibonacci.Fibonacci;
-import activities.MenuMeals.MenuMeals;
 import pl.michalmorus.java.course.MergeSort.MergeSort;
 
 import java.util.Scanner;
