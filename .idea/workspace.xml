@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a93228b-c0d8-40a8-a80b-f8df90d07105" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/pl/michalmorus/java/course/bisection/Bisection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/michalmorus/java/course/bisection/Bisection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/michalmorus/java/course/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/michalmorus/java/course/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/michalmorus/java/course/bisection/Bisection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/michalmorus/java/course/Bisection/Bisection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/michalmorus/java/course/bubblesort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/michalmorus/java/course/BubbleSort/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/michalmorus/java/course/college/College.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/michalmorus/java/course/College/College.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/michalmorus/java/course/college/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/michalmorus/java/course/College/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/michalmorus/java/course/college/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/michalmorus/java/course/College/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/michalmorus/java/course/college/PersonType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/michalmorus/java/course/College/PersonType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/michalmorus/java/course/college/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/michalmorus/java/course/College/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/michalmorus/java/course/fibonacci/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/michalmorus/java/course/Fibonacci/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/michalmorus/java/course/mergesort/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/michalmorus/java/course/MergeSort/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/michalmorus/java/course/utils/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/michalmorus/java/course/Utils/Utils.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,20 +25,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="45" column="33" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
+            <state relative-caret-position="255">
+              <caret line="24" column="47" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Utils.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/utils/Utils.java">
+      <file leaf-file-name="String.class" pinned="false" current-in-tab="false">
+        <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/String.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="705">
-              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+            <state relative-caret-position="238">
+              <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Chicken.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../java_course_2/src/pl/michalmorus/java/course/MenuMeals/Meals/Chicken.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+              <folding>
+                <element signature="e#134#135#0" expanded="true" />
+                <element signature="e#166#167#0" expanded="true" />
+                <element signature="e#286#287#0" expanded="true" />
+                <element signature="e#314#315#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MenuMealsAbstractFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../java_course_2/src/pl/michalmorus/java/course/MenuMeals/MenuMealsAbstractFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -35,102 +70,54 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Bisection.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/bisection/Bisection.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="75">
-                <caret line="5" column="119" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="119" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/college/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-              <folding>
-                <element signature="e#263#264#0" expanded="true" />
-                <element signature="e#290#291#0" expanded="true" />
-                <element signature="e#324#325#0" expanded="true" />
-                <element signature="e#354#355#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PersonType.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/college/PersonType.java">
+      <file leaf-file-name="Drink.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../java_course_2/src/pl/michalmorus/java/course/MenuMeals/Drinks/Drink.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/college/Student.java">
+      <file leaf-file-name="MenuMeals.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../java_course_2/src/pl/michalmorus/java/course/MenuMeals/MenuMeals.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="22" column="47" lean-forward="true" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+            <state relative-caret-position="165">
+              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="College.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/College/College.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Client.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../java_course_2/src/pl/michalmorus/java/course/MenuMeals/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
-                <element signature="e#415#416#0" expanded="true" />
-                <element signature="e#449#450#0" expanded="true" />
-                <element signature="e#488#489#0" expanded="true" />
-                <element signature="e#521#522#0" expanded="true" />
-                <element signature="e#566#567#0" expanded="true" />
-                <element signature="e#609#610#0" expanded="true" />
-                <element signature="e#851#852#0" expanded="true" />
-                <element signature="e#888#889#0" expanded="true" />
-                <element signature="e#1159#1160#0" expanded="true" />
-                <element signature="e#1186#1187#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#152#153#0" expanded="true" />
+                <element signature="e#190#191#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/college/Employee.java">
+      <file leaf-file-name="BaseMeal.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../java_course_2/src/pl/michalmorus/java/course/MenuMeals/BaseMeal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-              <folding>
-                <element signature="e#276#277#0" expanded="true" />
-                <element signature="e#305#306#0" expanded="true" />
-                <element signature="e#357#358#0" expanded="true" />
-                <element signature="e#398#399#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="90">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="College.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/college/College.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="370">
-              <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -138,8 +125,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -168,11 +155,37 @@
         <option value="$PROJECT_DIR$/src/pl/michalmorus/java/course/college/PersonType.java" />
         <option value="$PROJECT_DIR$/src/pl/michalmorus/java/course/college/Employee.java" />
         <option value="$PROJECT_DIR$/src/pl/michalmorus/java/course/college/Person.java" />
-        <option value="$PROJECT_DIR$/src/pl/michalmorus/java/course/Main.java" />
         <option value="$PROJECT_DIR$/src/pl/michalmorus/java/course/college/Student.java" />
-        <option value="$PROJECT_DIR$/src/pl/michalmorus/java/course/college/College.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/pl/michalmorus/java/course/bisection/Bisection.java" />
+        <option value="$PROJECT_DIR$/src/pl/michalmorus/java/course/college/College.java" />
+        <option value="$PROJECT_DIR$/src/pl/michalmorus/java/course/MenuMeals/ClientType.java" />
+        <option value="$PROJECT_DIR$/src/pl/michalmorus/java/course/MenuMeals/ConcerteFactoryChildren.java" />
+        <option value="$PROJECT_DIR$/src/pl/michalmorus/java/course/MenuMeals/ProductY.java" />
+        <option value="$PROJECT_DIR$/src/pl/michalmorus/java/course/MenuMeals/MenuMealsFactory.java" />
+        <option value="$PROJECT_DIR$/src/pl/michalmorus/java/course/MenuMeals/AbstractFactory.java" />
+        <option value="$PROJECT_DIR$/src/pl/michalmorus/java/course/MenuMeals/DrinkFactory.java" />
+        <option value="$PROJECT_DIR$/src/pl/michalmorus/java/course/MenuMeals/Meals/Drink.java" />
+        <option value="$PROJECT_DIR$/src/pl/michalmorus/java/course/MenuMeals/MenuMealsAbstractFactory.java" />
+        <option value="$PROJECT_DIR$/src/pl/michalmorus/java/course/MenuMeals/BaseMeal.java" />
+        <option value="$PROJECT_DIR$/src/pl/michalmorus/java/course/MenuMeals/ChildrenMealsFactory.java" />
+        <option value="$PROJECT_DIR$/src/pl/michalmorus/java/course/MenuMeals/AdultMealsFactory.java" />
+        <option value="$PROJECT_DIR$/src/pl/michalmorus/java/course/MenuMeals/Meals/Meal.java" />
+        <option value="$PROJECT_DIR$/src/pl/michalmorus/java/course/MenuMeals/Drinks/Drink.java" />
+        <option value="$PROJECT_DIR$/src/pl/michalmorus/java/course/MenuMeals/Drinks/Cola.java" />
+        <option value="$PROJECT_DIR$/src/pl/michalmorus/java/course/MenuMeals/Drinks/Kamikaze.java" />
+        <option value="$PROJECT_DIR$/src/pl/michalmorus/java/course/MenuMeals/Drinks/OrangeJuice.java" />
+        <option value="$PROJECT_DIR$/src/pl/michalmorus/java/course/MenuMeals/Drinks/Tea.java" />
+        <option value="$PROJECT_DIR$/src/pl/michalmorus/java/course/MenuMeals/Drinks/Wine.java" />
+        <option value="$PROJECT_DIR$/src/pl/michalmorus/java/course/MenuMeals/Meals/Chicken.java" />
+        <option value="$PROJECT_DIR$/src/pl/michalmorus/java/course/MenuMeals/Meals/Pizza.java" />
+        <option value="$PROJECT_DIR$/src/pl/michalmorus/java/course/MenuMeals/Meals/Spaggetti.java" />
+        <option value="$PROJECT_DIR$/src/pl/michalmorus/java/course/MenuMeals/Client.java" />
+        <option value="$PROJECT_DIR$/src/pl/michalmorus/java/course/MenuMeals/MenuMeals.java" />
+        <option value="$PROJECT_DIR$/src/pl/michalmorus/java/course/College/College.java" />
+        <option value="$PROJECT_DIR$/../java_course_2/src/activities/MenuMeals/BaseMeal.java" />
+        <option value="$PROJECT_DIR$/../java_course_2/src/pl/michalmorus/java/course/MenuMeals/BaseMeal.java" />
+        <option value="$PROJECT_DIR$/src/pl/michalmorus/java/course/Main.java" />
       </list>
     </option>
   </component>
@@ -186,9 +199,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2210" />
-    <option name="width" value="1717" />
-    <option name="height" value="934" />
+    <option name="width" value="960" />
+    <option name="height" value="1042" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -196,7 +208,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -215,54 +229,10 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="course" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="java_course_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_course_1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="course" type="462c0819:PsiDirectoryNode" />
-              <item name="bisection" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_course_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_course_1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="course" type="462c0819:PsiDirectoryNode" />
-              <item name="bubblesort" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_course_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_course_1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="course" type="462c0819:PsiDirectoryNode" />
-              <item name="college" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_course_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_course_1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="course" type="462c0819:PsiDirectoryNode" />
-              <item name="fibonacci" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_course_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_course_1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="course" type="462c0819:PsiDirectoryNode" />
-              <item name="mergesort" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_course_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_course_1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="course" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -313,15 +283,16 @@
       <option name="presentableId" value="Default" />
       <updated>1530733268128</updated>
       <workItem from="1530733271916" duration="8917000" />
-      <workItem from="1530820857799" duration="8973000" />
+      <workItem from="1530820857799" duration="9595000" />
+      <workItem from="1530944732791" duration="6820000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17890000" />
+    <option name="totallyTimeSpent" value="25332000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="0" width="2560" height="1042" extended-state="6" />
+    <frame x="0" y="0" width="1920" height="1042" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -333,25 +304,25 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35565314" />
       <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.37321624" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.22941822" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25179" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25453576" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39956093" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39956093" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -361,58 +332,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/mergesort/MergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="40" column="42" selection-start-line="40" selection-start-column="42" selection-end-line="40" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/Arrays.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19875">
-          <caret line="1325" column="53" selection-start-line="1325" selection-start-column="53" selection-end-line="1325" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/TreeMap.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="16" column="20" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/bubblesort/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="24" column="39" lean-forward="true" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/utils/Utils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/fibonacci/Fibonacci.java">
+    <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/Fibonacci/Fibonacci.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="42" />
@@ -439,7 +359,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/bisection/Bisection.java">
+    <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/Bisection/Bisection.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="39" column="43" lean-forward="true" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
@@ -478,7 +398,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/bubblesort/BubbleSort.java">
+    <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/BubbleSort/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
@@ -488,7 +408,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/fibonacci/Fibonacci.java">
+    <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/Fibonacci/Fibonacci.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
@@ -498,7 +418,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/mergesort/MergeSort.java">
+    <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/MergeSort/MergeSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
@@ -508,34 +428,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/footballPlayers/Player.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/vehicles/IVehicle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/vehicles/types/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/vehicles/AbstractVehicle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/footballPlayers/Player.java" />
+    <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/vehicles/IVehicle.java" />
+    <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/vehicles/types/Car.java" />
+    <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/vehicles/AbstractVehicle.java" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -546,99 +442,299 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/college/Start.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/college/PersonType.java">
+    <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/college/Start.java" />
+    <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/College/PersonType.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/college/Employee.java">
+    <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/College/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="345">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
           <folding>
             <element signature="e#276#277#0" expanded="true" />
             <element signature="e#305#306#0" expanded="true" />
-            <element signature="e#357#358#0" expanded="true" />
-            <element signature="e#398#399#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/utils/Utils.java">
+    <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/Utils/Utils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        <state relative-caret-position="615">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/College/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="45" column="33" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
+        <state relative-caret-position="195">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/college/Person.java">
+    <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/College/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-          <folding>
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#290#291#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#354#355#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/college/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="22" column="47" lean-forward="true" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
-          <folding>
-            <element signature="e#415#416#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
-            <element signature="e#488#489#0" expanded="true" />
-            <element signature="e#521#522#0" expanded="true" />
-            <element signature="e#566#567#0" expanded="true" />
-            <element signature="e#609#610#0" expanded="true" />
-            <element signature="e#851#852#0" expanded="true" />
-            <element signature="e#888#889#0" expanded="true" />
-            <element signature="e#1159#1160#0" expanded="true" />
-            <element signature="e#1186#1187#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="330">
+          <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/bisection/Bisection.java">
+    <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/Bisection/Bisection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
+        <state relative-caret-position="1365">
+          <caret line="98" selection-start-line="98" selection-end-line="98" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/college/College.java">
+    <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/MenuMeals/ClientType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/MenuMeals/ConcerteFactoryChildren.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/MenuMeals/ProductX.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/MenuMeals/ProductY.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/MenuMeals/MenuMealsFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/MenuMeals/DrinkFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../java_course_2/src/pl/michalmorus/java/course/MenuMeals/Drinks/Cola.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="13" column="4" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../java_course_2/src/pl/michalmorus/java/course/MenuMeals/Drinks/Kamikaze.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <folding>
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../java_course_2/src/pl/michalmorus/java/course/MenuMeals/Drinks/OrangeJuice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <folding>
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../java_course_2/src/pl/michalmorus/java/course/MenuMeals/Drinks/Tea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <folding>
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../java_course_2/src/pl/michalmorus/java/course/MenuMeals/Drinks/Wine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding>
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../java_course_2/src/pl/michalmorus/java/course/MenuMeals/Meals/Pizza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <folding>
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../java_course_2/src/pl/michalmorus/java/course/MenuMeals/Meals/Spaggetti.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <folding>
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../java_course_2/src/pl/michalmorus/java/course/MenuMeals/AdultMealsFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="51" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../java_course_2/src/pl/michalmorus/java/course/MenuMeals/Meals/Meal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../java_course_2/src/pl/michalmorus/java/course/MenuMeals/ChildrenMealsFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../java_course_2/src/pl/michalmorus/java/course/MenuMeals/Meals/Chicken.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+          <folding>
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../java_course_2/src/pl/michalmorus/java/course/MenuMeals/Drinks/Drink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../java_course_2/src/pl/michalmorus/java/course/MenuMeals/MenuMealsAbstractFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../java_course_2/src/pl/michalmorus/java/course/MenuMeals/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../java_course_2/src/pl/michalmorus/java/course/MenuMeals/MenuMeals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/College/College.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/io/ObjectStreamField.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/String.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../java_course_2/src/pl/michalmorus/java/course/MenuMeals/BaseMeal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pl/michalmorus/java/course/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="24" column="47" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
         </state>
       </provider>
     </entry>

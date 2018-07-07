@@ -1,6 +1,6 @@
-package pl.michalmorus.java.course.mergesort;
+package pl.michalmorus.java.course.MergeSort;
 
-import pl.michalmorus.java.course.utils.Utils;
+import pl.michalmorus.java.course.Utils.Utils;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,9 +1,5 @@
-package pl.michalmorus.java.course.utils;
+package pl.michalmorus.java.course.Utils;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.HashMap;
 import java.util.InputMismatchException;
 import java.util.Random;
 import java.util.Scanner;

@@ -1,6 +1,6 @@
-package pl.michalmorus.java.course.fibonacci;
+package pl.michalmorus.java.course.Fibonacci;
 
-import pl.michalmorus.java.course.utils.Utils;
+import pl.michalmorus.java.course.Utils.Utils;
 import java.math.BigInteger;
 import java.util.HashMap;
 import java.util.Map;

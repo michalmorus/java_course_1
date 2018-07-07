@@ -1,6 +1,6 @@
-package pl.michalmorus.java.course.bubblesort;
+package pl.michalmorus.java.course.BubbleSort;
 
-import pl.michalmorus.java.course.utils.Utils;
+import pl.michalmorus.java.course.Utils.Utils;
 
 import java.util.Arrays;
 

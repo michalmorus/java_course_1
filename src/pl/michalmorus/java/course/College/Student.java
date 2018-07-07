@@ -1,4 +1,4 @@
-package pl.michalmorus.java.course.college;
+package pl.michalmorus.java.course.College;
 
 import java.util.Arrays;
 

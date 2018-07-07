@@ -1,10 +1,11 @@
 package pl.michalmorus.java.course;
 
-import pl.michalmorus.java.course.bisection.Bisection;
-import pl.michalmorus.java.course.bubblesort.BubbleSort;
-import pl.michalmorus.java.course.college.College;
-import pl.michalmorus.java.course.fibonacci.Fibonacci;
-import pl.michalmorus.java.course.mergesort.MergeSort;
+import pl.michalmorus.java.course.Bisection.Bisection;
+import pl.michalmorus.java.course.BubbleSort.BubbleSort;
+import pl.michalmorus.java.course.College.College;
+import pl.michalmorus.java.course.Fibonacci.Fibonacci;
+import activities.MenuMeals.MenuMeals;
+import pl.michalmorus.java.course.MergeSort.MergeSort;
 
 import java.util.Scanner;
 
